@@ -1,0 +1,13 @@
+{
+  "name": "graphql-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "graphql": "^0.12.3",
+    "graphql-tools": "^2.19.0",
+    "lodash": "^4.17.4",
+    "uuid": "^3.2.1"
+  }
+}
